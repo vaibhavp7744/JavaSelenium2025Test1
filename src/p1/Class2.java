@@ -1,8 +1,10 @@
 package p1;
 
-public class C1 {
+public class Class2 {
 
 	public static void main(String[] args) {
-		System.out.println("Hello World");
+		// TODO Auto-generated method stub
+
 	}
+
 }
